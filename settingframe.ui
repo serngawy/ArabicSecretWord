@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SettingFrame</class>
+ <widget class="QFrame" name="SettingFrame">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>79</width>
+    <height>272</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>79</width>
+    <height>263</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>79</width>
+    <height>272</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Frame</string>
+  </property>
+  <property name="layoutDirection">
+   <enum>Qt::LeftToRight</enum>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">border-image: url(:/image/images/Settings Menu/Btns_Slices.png);</string>
+  </property>
+  <property name="frameShape">
+   <enum>QFrame::StyledPanel</enum>
+  </property>
+  <property name="frameShadow">
+   <enum>QFrame::Raised</enum>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QPushButton" name="pushBtn_exit">
+     <property name="minimumSize">
+      <size>
+       <width>57</width>
+       <height>59</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>57</width>
+       <height>59</height>
+      </size>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border-image: url(:/image/images/Settings Menu/Normal btns/Btns_Slices_33.png);</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="pushBtn_About">
+     <property name="minimumSize">
+      <size>
+       <width>57</width>
+       <height>59</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>57</width>
+       <height>59</height>
+      </size>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border-image: url(:/image/images/Settings Menu/Over Btns/Btns_Slices_36.png);</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="pushBtn_Help">
+     <property name="minimumSize">
+      <size>
+       <width>57</width>
+       <height>59</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>57</width>
+       <height>59</height>
+      </size>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border-image: url(:/image/images/Settings Menu/Normal btns/Btns_Slices_38.png);</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="pushBtn_Sound">
+     <property name="minimumSize">
+      <size>
+       <width>57</width>
+       <height>59</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>57</width>
+       <height>59</height>
+      </size>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border-image: url(:/image/images/Settings Menu/Normal btns/Btns_Slices_41.png);</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

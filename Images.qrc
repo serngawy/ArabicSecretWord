@@ -1,0 +1,131 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/backgrounds/FindTrusuer_Background.jpg</file>
+        <file>images/backgrounds/RightAnswerScreem_Background.png</file>
+        <file>images/Main Btns/Btns_Slices_09.png</file>
+        <file>images/Main Btns/Btns_Slices_25.png</file>
+        <file>images/Main Btns/Normal Btns/Btns_Slices_48.png</file>
+        <file>images/Main Btns/Normal Btns/Btns_Slices_50.png</file>
+        <file>images/Main Btns/Normal Btns/Btns_Slices_52.png</file>
+        <file>images/Menu Screen/Btns_Slices.png</file>
+        <file>images/Menu Screen/Normal Btns/Btns_Slices_06.png</file>
+        <file>images/Menu Screen/Normal Btns/Btns_Slices_12.png</file>
+        <file>images/Menu Screen/Normal Btns/Btns_Slices_18.png</file>
+        <file>images/Menu Screen/Normal Btns/Btns_Slices_20.png</file>
+        <file>images/Menu Screen/Normal Btns/Btns_Slices_22.png</file>
+        <file>images/Settings Menu/Over Btns/Btns_Slices_36.png</file>
+        <file>images/Settings Menu/Normal btns/Btns_Slices_33.png</file>
+        <file>images/Settings Menu/Normal btns/Btns_Slices_38.png</file>
+        <file>images/Settings Menu/Normal btns/Btns_Slices_41.png</file>
+        <file>images/Settings Menu/Normal btns/Btns_Slices_43.png</file>
+        <file>images/backgrounds/Background_Transparent.png</file>
+        <file>images/Game Levels/0.png</file>
+        <file>images/Game Levels/1.png</file>
+        <file>images/Game Levels/2.png</file>
+        <file>images/Game Levels/3.png</file>
+        <file>images/Game Levels/4.png</file>
+        <file>images/Game Levels/5.png</file>
+        <file>images/Game Levels/6.png</file>
+        <file>images/Game Levels/7.png</file>
+        <file>images/Game Levels/8.png</file>
+        <file>images/Game Levels/9.png</file>
+        <file>images/Game Levels/10.png</file>
+        <file>images/Game Levels/11.png</file>
+        <file>images/Game Levels/12.png</file>
+        <file>images/Game Levels/13.png</file>
+        <file>images/Game Levels/14.png</file>
+        <file>images/Game Levels/15.png</file>
+        <file>images/Game Levels/16.png</file>
+        <file>images/Game Levels/17.png</file>
+        <file>images/Game Levels/18.png</file>
+        <file>images/Game Levels/19.png</file>
+        <file>images/Game Levels/20.png</file>
+        <file>images/Game Levels/21.png</file>
+        <file>images/Game Levels/22.png</file>
+        <file>images/Game Levels/23.png</file>
+        <file>images/Game Levels/24.png</file>
+        <file>images/Game Levels/25.png</file>
+        <file>images/Game Levels/26.png</file>
+        <file>images/Game Levels/27.png</file>
+        <file>images/Game Levels/28.png</file>
+        <file>images/Game Levels/29.png</file>
+        <file>images/Game Levels/30.png</file>
+        <file>images/Game Levels/31.png</file>
+        <file>images/Game Levels/32.png</file>
+        <file>images/Game Levels/33.png</file>
+        <file>images/Game Levels/34.png</file>
+        <file>images/Game Levels/35.png</file>
+        <file>images/Game Levels/36.png</file>
+        <file>images/Game Levels/37.png</file>
+        <file>images/Game Levels/38.png</file>
+        <file>images/Game Levels/39.png</file>
+        <file>images/Game Levels/40.png</file>
+        <file>images/Game Levels/41.png</file>
+        <file>images/Settings Menu/Btns_Slices.png</file>
+        <file>images/Cities_Images/0.png</file>
+        <file>images/Cities_Images/1.png</file>
+        <file>images/Cities_Images/2.png</file>
+        <file>images/Cities_Images/3.png</file>
+        <file>images/Cities_Images/4.png</file>
+        <file>images/Cities_Images/5.png</file>
+        <file>images/Cities_Images/6.png</file>
+        <file>images/Cities_Images/7.png</file>
+        <file>images/Cities_Images/8.png</file>
+        <file>images/Cities_Images/9.png</file>
+        <file>images/Cities_Images/10.png</file>
+        <file>images/Cities_Images/11.png</file>
+        <file>images/Cities_Images/12.png</file>
+        <file>images/Cities_Images/13.png</file>
+        <file>images/Cities_Images/14.png</file>
+        <file>images/Cities_Images/15.png</file>
+        <file>images/Cities_Images/16.png</file>
+        <file>images/Cities_Images/17.png</file>
+        <file>images/Cities_Images/18.png</file>
+        <file>images/Cities_Images/19.png</file>
+        <file>images/Cities_Images/20.png</file>
+        <file>images/Cities_Images/21.png</file>
+        <file>images/Cities_Images/22.png</file>
+        <file>images/Cities_Images/23.png</file>
+        <file>images/Cities_Images/24.png</file>
+        <file>images/Cities_Images/25.png</file>
+        <file>images/Cities_Images/26.png</file>
+        <file>images/Cities_Images/27.png</file>
+        <file>images/Cities_Images/28.png</file>
+        <file>images/Cities_Images/29.png</file>
+        <file>images/Cities_Images/30.png</file>
+        <file>images/Cities_Images/31.png</file>
+        <file>images/Cities_Images/32.png</file>
+        <file>images/Cities_Images/33.png</file>
+        <file>images/Cities_Images/34.png</file>
+        <file>images/Cities_Images/35.png</file>
+        <file>images/Cities_Images/36.png</file>
+        <file>images/Cities_Images/37.png</file>
+        <file>images/Cities_Images/38.png</file>
+        <file>images/Cities_Images/39.png</file>
+        <file>images/Cities_Images/40.png</file>
+        <file>images/Cities_Images/41.png</file>
+        <file>images/WordsBtn/GameBtns_06.png</file>
+        <file>images/WordsBtn/GameBtns_08.png</file>
+        <file>images/WordsBtn/GameBtns_10.png</file>
+        <file>images/WordsBtn/GameBtns_17.png</file>
+        <file>images/WordsBtn/text.png</file>
+        <file>images/backgrounds/FindTrusuer_BackgroundG.jpg</file>
+        <file>images/WordsBtn/LockedLevels.png</file>
+        <file>images/backgrounds/HintScreen.png</file>
+        <file>images/WordsBtn/2.png</file>
+        <file>images/WordsBtn/Active.png</file>
+        <file>images/WordsBtn/Dimmed.png</file>
+        <file>images/backgrounds/MainScreen_Background_02.jpg</file>
+        <file>images/backgrounds/AboutWindow_Sliced.png</file>
+        <file>images/backgrounds/HelpWindowContainerOnly.png</file>
+        <file>images/Main Btns/Normal Btns/AllLevels.png</file>
+        <file>images/Main Btns/Normal Btns/CloseWindow.png</file>
+        <file>images/Main Btns/Normal Btns/NextLevel.png</file>
+        <file>images/backgrounds/2ndScreen_Background.jpg</file>
+        <file>images/WordsBtn/LCD.jpg</file>
+        <file>images/WordsBtn/LCD-BG.png</file>
+        <file>images/backgrounds/GameBackground.jpg</file>
+        <file>images/WordsBtn/txtBG.png</file>
+        <file>images/Main Btns/Normal Btns/Replay.png</file>
+    </qresource>
+</RCC>
